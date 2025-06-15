@@ -99,4 +99,4 @@ def ajouter_pokemon():
 
 fenetre.mainloop()
 
-# dans le terminale   python .\pokedex.py
+# Dans le terminale  →  python .\pokedex.py
